@@ -1,2 +1,2 @@
 # aiit
-Information theory for AI(2024-Q1
+Information theory for AI(2024-Q1)
